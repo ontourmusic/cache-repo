@@ -5,7 +5,7 @@ on:
   push:
     branches:
       - main
-
+permissions: write-all
 jobs:
   get-current-artist-info:
     environment: production
