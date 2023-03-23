@@ -9,7 +9,7 @@
             "templated": false
         },
         "next": {
-            "href": "https://api.stubhub.net/catalog/events?min_resource_version=154477920715&page_size=500&sort=resource_version",
+            "href": "https://api.stubhub.net/catalog/events?min_resource_version=154477920728&page_size=500&sort=resource_version",
             "title": null,
             "templated": false
         }
@@ -88,75 +88,6 @@
                                     "platform_name": "legacy_stubhub"
                                 }
                             ]
-                        }
-                    }
-                }
-            },
-            {
-                "id": 9580636,
-                "name": "Blackberry Smoke",
-                "start_date": "2023-03-23T20:00:00+01:00",
-                "end_date": null,
-                "on_sale_date": null,
-                "date_confirmed": true,
-                "time_confirmed": true,
-                "type": "Main",
-                "min_ticket_price": null,
-                "status": "Normal",
-                "_links": {
-                    "event:webpage": {
-                        "href": "https://www.stubhub.com/blackberry-smoke-leuven-tickets-3-23-2023/event/132538869/",
-                        "title": null,
-                        "templated": false
-                    }
-                },
-                "_embedded": {
-                    "categories": [
-                        {
-                            "id": 28453,
-                            "name": "Blackberry Smoke",
-                            "role": null,
-                            "_embedded": {
-                                "external_mappings": [
-                                    {
-                                        "id": "580026",
-                                        "platform_name": "legacy_stubhub"
-                                    }
-                                ]
-                            }
-                        }
-                    ],
-                    "external_mappings": [
-                        {
-                            "id": "132538869",
-                            "platform_name": "legacy_stubhub"
-                        }
-                    ],
-                    "genre": {
-                        "id": 3,
-                        "name": "Concert Tickets",
-                        "_embedded": {
-                            "external_mappings": [
-                                {
-                                    "id": "1",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    },
-                    "venue": {
-                        "id": 7979,
-                        "name": "Het Depot",
-                        "city": "Leuven",
-                        "state_province": null,
-                        "postal_code": "3000",
-                        "latitude": 50.8815089,
-                        "longitude": 4.7138295,
-                        "_embedded": {
-                            "country": {
-                                "code": "BE",
-                                "name": "Belgium"
-                            }
                         }
                     }
                 }
@@ -18990,66 +18921,6 @@
                 }
             },
             {
-                "id": 150323154,
-                "name": "Lionel Loueke / Ziv Ravitz & NDR Bigband / Pablo Mart\u00edn Caminero",
-                "start_date": "2023-03-23T20:00:00+01:00",
-                "end_date": null,
-                "on_sale_date": null,
-                "date_confirmed": true,
-                "time_confirmed": true,
-                "type": "Main",
-                "min_ticket_price": null,
-                "status": "Normal",
-                "_links": {
-                    "event:webpage": {
-                        "href": "https://www.viagogo.com/E-150323154",
-                        "title": null,
-                        "templated": false
-                    }
-                },
-                "_embedded": {
-                    "categories": [
-                        {
-                            "id": 25205,
-                            "name": "NDR Bigband",
-                            "role": null
-                        },
-                        {
-                            "id": 67727,
-                            "name": "Lionel Loueke",
-                            "role": null
-                        }
-                    ],
-                    "genre": {
-                        "id": 3,
-                        "name": "Concert Tickets",
-                        "_embedded": {
-                            "external_mappings": [
-                                {
-                                    "id": "1",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    },
-                    "venue": {
-                        "id": 23375,
-                        "name": "Rolf-Liebermann-Studio",
-                        "city": "Hamburg",
-                        "state_province": "Hamburg",
-                        "postal_code": "20149",
-                        "latitude": 53.5776727,
-                        "longitude": 9.991134999999986,
-                        "_embedded": {
-                            "country": {
-                                "code": "DE",
-                                "name": "Germany"
-                            }
-                        }
-                    }
-                }
-            },
-            {
                 "id": 150279303,
                 "name": "Mar\u00edtimo M. vs Vit\u00f3ria SC",
                 "start_date": "2023-04-30T17:00:00+01:00",
@@ -35385,6 +35256,116 @@
                 "_links": {
                     "event:webpage": {
                         "href": "https://www.viagogo.com/E-150393605",
+                        "title": null,
+                        "templated": false
+                    }
+                },
+                "_embedded": {
+                    "categories": [
+                        {
+                            "id": 150021331,
+                            "name": "Legends - The Home of Football",
+                            "role": null
+                        }
+                    ],
+                    "genre": {
+                        "id": 1,
+                        "name": "Theater Tickets",
+                        "_embedded": {
+                            "external_mappings": [
+                                {
+                                    "id": "174",
+                                    "platform_name": "legacy_stubhub"
+                                }
+                            ]
+                        }
+                    },
+                    "venue": {
+                        "id": 150004727,
+                        "name": "LEGENDS - The Home of Football",
+                        "city": "Madrid",
+                        "state_province": "Comunidad de Madrid",
+                        "postal_code": "00000",
+                        "latitude": 40.4167668,
+                        "longitude": -3.7019256,
+                        "_embedded": {
+                            "country": {
+                                "code": "ES",
+                                "name": "Spain"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 150393618,
+                "name": "Legends - The Home of Football",
+                "start_date": "2023-05-16T14:50:00+02:00",
+                "end_date": null,
+                "on_sale_date": null,
+                "date_confirmed": true,
+                "time_confirmed": true,
+                "type": "Main",
+                "min_ticket_price": null,
+                "status": "Normal",
+                "_links": {
+                    "event:webpage": {
+                        "href": "https://www.viagogo.com/E-150393618",
+                        "title": null,
+                        "templated": false
+                    }
+                },
+                "_embedded": {
+                    "categories": [
+                        {
+                            "id": 150021331,
+                            "name": "Legends - The Home of Football",
+                            "role": null
+                        }
+                    ],
+                    "genre": {
+                        "id": 1,
+                        "name": "Theater Tickets",
+                        "_embedded": {
+                            "external_mappings": [
+                                {
+                                    "id": "174",
+                                    "platform_name": "legacy_stubhub"
+                                }
+                            ]
+                        }
+                    },
+                    "venue": {
+                        "id": 150004727,
+                        "name": "LEGENDS - The Home of Football",
+                        "city": "Madrid",
+                        "state_province": "Comunidad de Madrid",
+                        "postal_code": "00000",
+                        "latitude": 40.4167668,
+                        "longitude": -3.7019256,
+                        "_embedded": {
+                            "country": {
+                                "code": "ES",
+                                "name": "Spain"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 150393651,
+                "name": "Legends - The Home of Football",
+                "start_date": "2023-04-13T14:40:00+02:00",
+                "end_date": null,
+                "on_sale_date": null,
+                "date_confirmed": true,
+                "time_confirmed": true,
+                "type": "Main",
+                "min_ticket_price": null,
+                "status": "Normal",
+                "_links": {
+                    "event:webpage": {
+                        "href": "https://www.viagogo.com/E-150393651",
                         "title": null,
                         "templated": false
                     }
