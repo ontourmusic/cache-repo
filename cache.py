@@ -72,6 +72,6 @@ if __name__ == "__main__":
         result = requests.get("https://api.stubhub.net/catalog/events", headers={"Authorization": "Bearer " + stubhub_token})
     except requests.exceptions.RequestException as e:
         print(e)
-    # dump to file
+    stubhub = result.json()
     with open("stubhub.json", "w") as f:
         json.dump(stubhub, f, indent=4)
