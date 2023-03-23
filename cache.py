@@ -1,9 +1,10 @@
 import os
 from dotenv import load_dotenv
-
+import requests
 load_dotenv()
 
 app_id = os.environ["APP_ID"]
+stubhub_token = os.environ["STUBHUB_TOKEN"]
 
 artist_list = [
     "Adele",
@@ -60,3 +61,17 @@ if __name__ == "__main__":
 
     with open("cache.json", "w") as f:
         json.dump(cache, f, indent=4)
+    
+    stubhub = {}
+    try:
+        with open("stubhub.json", "r") as f:
+            stubhub = json.load(f)
+    except FileNotFoundError:
+        pass
+    try:
+        result = requests.get("https://api.stubhub.net/catalog/events", headers={"Authorization": "Bearer " + stubhub_token})
+    except requests.exceptions.RequestException as e:
+        print(e)
+    # dump to file
+    with open("stubhub.json", "w") as f:
+        json.dump(stubhub, f, indent=4)
