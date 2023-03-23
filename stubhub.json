@@ -14439,10 +14439,10 @@
                         "id": 95525,
                         "name": "Santander Performing Arts Center at Santander Arena & Performing Arts Center - Complex Parking Lots",
                         "city": "Reading",
-                        "state_province": "Pennsylvania",
+                        "state_province": "PA",
                         "postal_code": "19601",
-                        "latitude": 40.3378509,
-                        "longitude": -75.92631,
+                        "latitude": 40.33786773681641,
+                        "longitude": -75.92584991455078,
                         "_embedded": {
                             "country": {
                                 "code": "US",
@@ -14514,10 +14514,10 @@
                         "id": 95525,
                         "name": "Santander Performing Arts Center at Santander Arena & Performing Arts Center - Complex Parking Lots",
                         "city": "Reading",
-                        "state_province": "Pennsylvania",
+                        "state_province": "PA",
                         "postal_code": "19601",
-                        "latitude": 40.3378509,
-                        "longitude": -75.92631,
+                        "latitude": 40.33786773681641,
+                        "longitude": -75.92584991455078,
                         "_embedded": {
                             "country": {
                                 "code": "US",
