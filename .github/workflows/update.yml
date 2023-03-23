@@ -29,6 +29,7 @@ jobs:
         run: python3 cache.py
         env:
           APP_ID: ${{ secrets.APP_ID }}
+          STUBHUB_TOKEN: ${{ secrets.STUBHUB_TOKEN }}
       - name: Commit as Bot
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
