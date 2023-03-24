@@ -9,7 +9,7 @@
             "templated": false
         },
         "next": {
-            "href": "https://api.stubhub.net/catalog/events?min_resource_version=154477920728&page_size=500&sort=resource_version",
+            "href": "https://api.stubhub.net/catalog/events?min_resource_version=154477920749&page_size=500&sort=resource_version",
             "title": null,
             "templated": false
         }
@@ -3475,94 +3475,6 @@
                             "external_mappings": [
                                 {
                                     "id": "440345",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    }
-                }
-            },
-            {
-                "id": 8421771,
-                "name": "Saint John Sea Dogs at Charlottetown Islanders",
-                "start_date": "2023-03-23T19:00:00-03:00",
-                "end_date": null,
-                "on_sale_date": null,
-                "date_confirmed": true,
-                "time_confirmed": true,
-                "type": "Main",
-                "min_ticket_price": null,
-                "status": "Normal",
-                "_links": {
-                    "event:webpage": {
-                        "href": "https://www.stubhub.com/charlottetown-islanders-charlottetown-tickets-3-23-2023/event/105044820/",
-                        "title": null,
-                        "templated": false
-                    }
-                },
-                "_embedded": {
-                    "categories": [
-                        {
-                            "id": 103105,
-                            "name": "Charlottetown Islanders",
-                            "role": "HomeTeam",
-                            "_embedded": {
-                                "external_mappings": [
-                                    {
-                                        "id": "1522675",
-                                        "platform_name": "legacy_stubhub"
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "id": 103103,
-                            "name": "Saint John Sea Dogs",
-                            "role": "AwayTeam",
-                            "_embedded": {
-                                "external_mappings": [
-                                    {
-                                        "id": "1522681",
-                                        "platform_name": "legacy_stubhub"
-                                    }
-                                ]
-                            }
-                        }
-                    ],
-                    "external_mappings": [
-                        {
-                            "id": "105044820",
-                            "platform_name": "legacy_stubhub"
-                        }
-                    ],
-                    "genre": {
-                        "id": 2,
-                        "name": "Sports Tickets",
-                        "_embedded": {
-                            "external_mappings": [
-                                {
-                                    "id": "28",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    },
-                    "venue": {
-                        "id": 32929,
-                        "name": "Eastlink Centre Charlottetown",
-                        "city": "Charlottetown",
-                        "state_province": "PE",
-                        "postal_code": "C1A 5H7",
-                        "latitude": 46.24576187133789,
-                        "longitude": -63.11779022216797,
-                        "_embedded": {
-                            "country": {
-                                "code": "CA",
-                                "name": "Canada"
-                            },
-                            "external_mappings": [
-                                {
-                                    "id": "449042",
                                     "platform_name": "legacy_stubhub"
                                 }
                             ]
@@ -35366,6 +35278,61 @@
                 "_links": {
                     "event:webpage": {
                         "href": "https://www.viagogo.com/E-150393651",
+                        "title": null,
+                        "templated": false
+                    }
+                },
+                "_embedded": {
+                    "categories": [
+                        {
+                            "id": 150021331,
+                            "name": "Legends - The Home of Football",
+                            "role": null
+                        }
+                    ],
+                    "genre": {
+                        "id": 1,
+                        "name": "Theater Tickets",
+                        "_embedded": {
+                            "external_mappings": [
+                                {
+                                    "id": "174",
+                                    "platform_name": "legacy_stubhub"
+                                }
+                            ]
+                        }
+                    },
+                    "venue": {
+                        "id": 150004727,
+                        "name": "LEGENDS - The Home of Football",
+                        "city": "Madrid",
+                        "state_province": "Comunidad de Madrid",
+                        "postal_code": "00000",
+                        "latitude": 40.4167668,
+                        "longitude": -3.7019256,
+                        "_embedded": {
+                            "country": {
+                                "code": "ES",
+                                "name": "Spain"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 150393552,
+                "name": "Legends - The Home of Football",
+                "start_date": "2023-05-08T18:30:00+02:00",
+                "end_date": null,
+                "on_sale_date": null,
+                "date_confirmed": true,
+                "time_confirmed": true,
+                "type": "Main",
+                "min_ticket_price": null,
+                "status": "Normal",
+                "_links": {
+                    "event:webpage": {
+                        "href": "https://www.viagogo.com/E-150393552",
                         "title": null,
                         "templated": false
                     }
