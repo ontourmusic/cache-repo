@@ -9,7 +9,7 @@
             "templated": false
         },
         "next": {
-            "href": "https://api.stubhub.net/catalog/events?min_resource_version=154477920749&page_size=500&sort=resource_version",
+            "href": "https://api.stubhub.net/catalog/events?min_resource_version=154478357779&page_size=500&sort=resource_version",
             "title": null,
             "templated": false
         }
@@ -4909,94 +4909,6 @@
                     "external_mappings": [
                         {
                             "id": "150264634",
-                            "platform_name": "legacy_stubhub"
-                        }
-                    ],
-                    "genre": {
-                        "id": 2,
-                        "name": "Sports Tickets",
-                        "_embedded": {
-                            "external_mappings": [
-                                {
-                                    "id": "28",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    },
-                    "venue": {
-                        "id": 81785,
-                        "name": "North Bay Memorial Gardens",
-                        "city": "North Bay",
-                        "state_province": "ON",
-                        "postal_code": "P1B 6G2",
-                        "latitude": 46.31427001953125,
-                        "longitude": -79.44880676269531,
-                        "_embedded": {
-                            "country": {
-                                "code": "CA",
-                                "name": "Canada"
-                            },
-                            "external_mappings": [
-                                {
-                                    "id": "439037",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    }
-                }
-            },
-            {
-                "id": 150264636,
-                "name": "Hamilton Bulldogs at North Bay Battalion",
-                "start_date": "2023-03-23T19:00:00-04:00",
-                "end_date": null,
-                "on_sale_date": null,
-                "date_confirmed": true,
-                "time_confirmed": true,
-                "type": "Main",
-                "min_ticket_price": null,
-                "status": "Normal",
-                "_links": {
-                    "event:webpage": {
-                        "href": "https://www.stubhub.com/north-bay-battalion-north-bay-tickets-3-23-2023/event/150264636/",
-                        "title": null,
-                        "templated": false
-                    }
-                },
-                "_embedded": {
-                    "categories": [
-                        {
-                            "id": 67047,
-                            "name": "North Bay Battalion",
-                            "role": "HomeTeam",
-                            "_embedded": {
-                                "external_mappings": [
-                                    {
-                                        "id": "1497027",
-                                        "platform_name": "legacy_stubhub"
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "id": 66629,
-                            "name": "Hamilton Bulldogs",
-                            "role": "AwayTeam",
-                            "_embedded": {
-                                "external_mappings": [
-                                    {
-                                        "id": "1505475",
-                                        "platform_name": "legacy_stubhub"
-                                    }
-                                ]
-                            }
-                        }
-                    ],
-                    "external_mappings": [
-                        {
-                            "id": "150264636",
                             "platform_name": "legacy_stubhub"
                         }
                     ],
@@ -14351,10 +14263,10 @@
                         "id": 95525,
                         "name": "Santander Performing Arts Center at Santander Arena & Performing Arts Center - Complex Parking Lots",
                         "city": "Reading",
-                        "state_province": "Pennsylvania",
+                        "state_province": "PA",
                         "postal_code": "19601",
-                        "latitude": 40.3378509,
-                        "longitude": -75.92631,
+                        "latitude": 40.33786773681641,
+                        "longitude": -75.92584991455078,
                         "_embedded": {
                             "country": {
                                 "code": "US",
@@ -14426,10 +14338,10 @@
                         "id": 95525,
                         "name": "Santander Performing Arts Center at Santander Arena & Performing Arts Center - Complex Parking Lots",
                         "city": "Reading",
-                        "state_province": "Pennsylvania",
+                        "state_province": "PA",
                         "postal_code": "19601",
-                        "latitude": 40.3378509,
-                        "longitude": -75.92631,
+                        "latitude": 40.33786773681641,
+                        "longitude": -75.92584991455078,
                         "_embedded": {
                             "country": {
                                 "code": "US",
@@ -24946,81 +24858,6 @@
                 }
             },
             {
-                "id": 150334988,
-                "name": "PARKING PASSES ONLY Hamilton - New York",
-                "start_date": "2023-03-23T19:00:00-04:00",
-                "end_date": null,
-                "on_sale_date": "2022-08-04T10:00:00-04:00",
-                "date_confirmed": true,
-                "time_confirmed": true,
-                "type": "Parking",
-                "min_ticket_price": null,
-                "status": "Normal",
-                "_links": {
-                    "event:webpage": {
-                        "href": "https://www.stubhub.com/parking-passes-only-hamilton-new-york-new-york-tickets-3-23-2023/event/150334988/",
-                        "title": null,
-                        "templated": false
-                    }
-                },
-                "_embedded": {
-                    "categories": [
-                        {
-                            "id": 39265,
-                            "name": "Hamilton New York",
-                            "role": null,
-                            "_embedded": {
-                                "external_mappings": [
-                                    {
-                                        "id": "1500227",
-                                        "platform_name": "legacy_stubhub"
-                                    }
-                                ]
-                            }
-                        }
-                    ],
-                    "external_mappings": [
-                        {
-                            "id": "150334988",
-                            "platform_name": "legacy_stubhub"
-                        }
-                    ],
-                    "genre": {
-                        "id": 1,
-                        "name": "Theater Tickets",
-                        "_embedded": {
-                            "external_mappings": [
-                                {
-                                    "id": "174",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    },
-                    "venue": {
-                        "id": 96536,
-                        "name": "Richard Rodgers Theatre Parking Lots",
-                        "city": "New York",
-                        "state_province": "NY",
-                        "postal_code": "10036",
-                        "latitude": 40.759033203125,
-                        "longitude": -73.98674774169922,
-                        "_embedded": {
-                            "country": {
-                                "code": "US",
-                                "name": "USA"
-                            },
-                            "external_mappings": [
-                                {
-                                    "id": "440410",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    }
-                }
-            },
-            {
                 "id": 150334991,
                 "name": "PARKING PASSES ONLY Hamilton - New York",
                 "start_date": "2023-03-25T20:00:00-04:00",
@@ -35333,6 +35170,116 @@
                 "_links": {
                     "event:webpage": {
                         "href": "https://www.viagogo.com/E-150393552",
+                        "title": null,
+                        "templated": false
+                    }
+                },
+                "_embedded": {
+                    "categories": [
+                        {
+                            "id": 150021331,
+                            "name": "Legends - The Home of Football",
+                            "role": null
+                        }
+                    ],
+                    "genre": {
+                        "id": 1,
+                        "name": "Theater Tickets",
+                        "_embedded": {
+                            "external_mappings": [
+                                {
+                                    "id": "174",
+                                    "platform_name": "legacy_stubhub"
+                                }
+                            ]
+                        }
+                    },
+                    "venue": {
+                        "id": 150004727,
+                        "name": "LEGENDS - The Home of Football",
+                        "city": "Madrid",
+                        "state_province": "Comunidad de Madrid",
+                        "postal_code": "00000",
+                        "latitude": 40.4167668,
+                        "longitude": -3.7019256,
+                        "_embedded": {
+                            "country": {
+                                "code": "ES",
+                                "name": "Spain"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 150393610,
+                "name": "Legends - The Home of Football",
+                "start_date": "2023-05-14T13:00:00+02:00",
+                "end_date": null,
+                "on_sale_date": null,
+                "date_confirmed": true,
+                "time_confirmed": true,
+                "type": "Main",
+                "min_ticket_price": null,
+                "status": "Normal",
+                "_links": {
+                    "event:webpage": {
+                        "href": "https://www.viagogo.com/E-150393610",
+                        "title": null,
+                        "templated": false
+                    }
+                },
+                "_embedded": {
+                    "categories": [
+                        {
+                            "id": 150021331,
+                            "name": "Legends - The Home of Football",
+                            "role": null
+                        }
+                    ],
+                    "genre": {
+                        "id": 1,
+                        "name": "Theater Tickets",
+                        "_embedded": {
+                            "external_mappings": [
+                                {
+                                    "id": "174",
+                                    "platform_name": "legacy_stubhub"
+                                }
+                            ]
+                        }
+                    },
+                    "venue": {
+                        "id": 150004727,
+                        "name": "LEGENDS - The Home of Football",
+                        "city": "Madrid",
+                        "state_province": "Comunidad de Madrid",
+                        "postal_code": "00000",
+                        "latitude": 40.4167668,
+                        "longitude": -3.7019256,
+                        "_embedded": {
+                            "country": {
+                                "code": "ES",
+                                "name": "Spain"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 150393751,
+                "name": "Legends - The Home of Football",
+                "start_date": "2023-06-28T16:20:00+02:00",
+                "end_date": null,
+                "on_sale_date": null,
+                "date_confirmed": true,
+                "time_confirmed": true,
+                "type": "Main",
+                "min_ticket_price": null,
+                "status": "Normal",
+                "_links": {
+                    "event:webpage": {
+                        "href": "https://www.viagogo.com/E-150393751",
                         "title": null,
                         "templated": false
                     }
