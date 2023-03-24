@@ -9,7 +9,7 @@
             "templated": false
         },
         "next": {
-            "href": "https://api.stubhub.net/catalog/events?min_resource_version=154478357864&page_size=500&sort=resource_version",
+            "href": "https://api.stubhub.net/catalog/events?min_resource_version=154478357880&page_size=500&sort=resource_version",
             "title": null,
             "templated": false
         }
@@ -13500,10 +13500,10 @@
                         "id": 95525,
                         "name": "Santander Performing Arts Center at Santander Arena & Performing Arts Center - Complex Parking Lots",
                         "city": "Reading",
-                        "state_province": "PA",
+                        "state_province": "Pennsylvania",
                         "postal_code": "19601",
-                        "latitude": 40.33786773681641,
-                        "longitude": -75.92584991455078,
+                        "latitude": 40.3378509,
+                        "longitude": -75.92631,
                         "_embedded": {
                             "country": {
                                 "code": "US",
@@ -13575,10 +13575,10 @@
                         "id": 95525,
                         "name": "Santander Performing Arts Center at Santander Arena & Performing Arts Center - Complex Parking Lots",
                         "city": "Reading",
-                        "state_province": "PA",
+                        "state_province": "Pennsylvania",
                         "postal_code": "19601",
-                        "latitude": 40.33786773681641,
-                        "longitude": -75.92584991455078,
+                        "latitude": 40.3378509,
+                        "longitude": -75.92631,
                         "_embedded": {
                             "country": {
                                 "code": "US",
@@ -23397,81 +23397,6 @@
                             "external_mappings": [
                                 {
                                     "id": "439234",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    }
-                }
-            },
-            {
-                "id": 150333279,
-                "name": "Phil Wang",
-                "start_date": "2023-03-31T19:30:00+01:00",
-                "end_date": null,
-                "on_sale_date": null,
-                "date_confirmed": true,
-                "time_confirmed": true,
-                "type": "Main",
-                "min_ticket_price": null,
-                "status": "Normal",
-                "_links": {
-                    "event:webpage": {
-                        "href": "https://www.stubhub.com/phil-wang-nottingham-tickets-3-31-2023/event/150333279/",
-                        "title": null,
-                        "templated": false
-                    }
-                },
-                "_embedded": {
-                    "categories": [
-                        {
-                            "id": 64025,
-                            "name": "Phil Wang",
-                            "role": "HeadlineAct",
-                            "_embedded": {
-                                "external_mappings": [
-                                    {
-                                        "id": "101201578",
-                                        "platform_name": "legacy_stubhub"
-                                    }
-                                ]
-                            }
-                        }
-                    ],
-                    "external_mappings": [
-                        {
-                            "id": "150333279",
-                            "platform_name": "legacy_stubhub"
-                        }
-                    ],
-                    "genre": {
-                        "id": 1,
-                        "name": "Theater Tickets",
-                        "_embedded": {
-                            "external_mappings": [
-                                {
-                                    "id": "174",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    },
-                    "venue": {
-                        "id": 12566,
-                        "name": "Nottingham Playhouse",
-                        "city": "Nottingham",
-                        "state_province": null,
-                        "postal_code": "NG1 5AL",
-                        "latitude": 52.953882,
-                        "longitude": -1.156135,
-                        "_embedded": {
-                            "country": {
-                                "code": "GB",
-                                "name": "United Kingdom"
-                            },
-                            "external_mappings": [
-                                {
-                                    "id": "208750",
                                     "platform_name": "legacy_stubhub"
                                 }
                             ]
@@ -35067,6 +34992,61 @@
                 "_links": {
                     "event:webpage": {
                         "href": "https://www.viagogo.com/E-150393942",
+                        "title": null,
+                        "templated": false
+                    }
+                },
+                "_embedded": {
+                    "categories": [
+                        {
+                            "id": 150021331,
+                            "name": "Legends - The Home of Football",
+                            "role": null
+                        }
+                    ],
+                    "genre": {
+                        "id": 1,
+                        "name": "Theater Tickets",
+                        "_embedded": {
+                            "external_mappings": [
+                                {
+                                    "id": "174",
+                                    "platform_name": "legacy_stubhub"
+                                }
+                            ]
+                        }
+                    },
+                    "venue": {
+                        "id": 150004727,
+                        "name": "LEGENDS - The Home of Football",
+                        "city": "Madrid",
+                        "state_province": "Comunidad de Madrid",
+                        "postal_code": "00000",
+                        "latitude": 40.4167668,
+                        "longitude": -3.7019256,
+                        "_embedded": {
+                            "country": {
+                                "code": "ES",
+                                "name": "Spain"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 150393918,
+                "name": "Legends - The Home of Football",
+                "start_date": "2023-05-03T17:40:00+02:00",
+                "end_date": null,
+                "on_sale_date": null,
+                "date_confirmed": true,
+                "time_confirmed": true,
+                "type": "Main",
+                "min_ticket_price": null,
+                "status": "Normal",
+                "_links": {
+                    "event:webpage": {
+                        "href": "https://www.viagogo.com/E-150393918",
                         "title": null,
                         "templated": false
                     }
