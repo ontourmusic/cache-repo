@@ -9,7 +9,7 @@
             "templated": false
         },
         "next": {
-            "href": "https://api.stubhub.net/catalog/events?min_resource_version=154478357790&page_size=500&sort=resource_version",
+            "href": "https://api.stubhub.net/catalog/events?min_resource_version=154478357821&page_size=500&sort=resource_version",
             "title": null,
             "templated": false
         }
@@ -24230,171 +24230,6 @@
                 }
             },
             {
-                "id": 150333311,
-                "name": "Wiener Mozart Konzerte",
-                "start_date": "2023-07-08T20:15:00+02:00",
-                "end_date": null,
-                "on_sale_date": null,
-                "date_confirmed": true,
-                "time_confirmed": true,
-                "type": "Main",
-                "min_ticket_price": null,
-                "status": "Normal",
-                "_links": {
-                    "event:webpage": {
-                        "href": "https://www.viagogo.com/E-150333311",
-                        "title": null,
-                        "templated": false
-                    }
-                },
-                "_embedded": {
-                    "categories": [
-                        {
-                            "id": 14529,
-                            "name": "Wiener Mozart Konzerte",
-                            "role": null
-                        }
-                    ],
-                    "genre": {
-                        "id": 1,
-                        "name": "Theater Tickets",
-                        "_embedded": {
-                            "external_mappings": [
-                                {
-                                    "id": "174",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    },
-                    "venue": {
-                        "id": 5710,
-                        "name": "Wiener Staatsoper",
-                        "city": "Wien",
-                        "state_province": null,
-                        "postal_code": "1010",
-                        "latitude": 48.20300989999999,
-                        "longitude": 16.3690761,
-                        "_embedded": {
-                            "country": {
-                                "code": "AT",
-                                "name": "Austria"
-                            }
-                        }
-                    }
-                }
-            },
-            {
-                "id": 150333312,
-                "name": "Wiener Mozart Konzerte",
-                "start_date": "2023-07-05T20:15:00+02:00",
-                "end_date": null,
-                "on_sale_date": null,
-                "date_confirmed": true,
-                "time_confirmed": true,
-                "type": "Main",
-                "min_ticket_price": null,
-                "status": "Normal",
-                "_links": {
-                    "event:webpage": {
-                        "href": "https://www.viagogo.com/E-150333312",
-                        "title": null,
-                        "templated": false
-                    }
-                },
-                "_embedded": {
-                    "categories": [
-                        {
-                            "id": 14529,
-                            "name": "Wiener Mozart Konzerte",
-                            "role": null
-                        }
-                    ],
-                    "genre": {
-                        "id": 1,
-                        "name": "Theater Tickets",
-                        "_embedded": {
-                            "external_mappings": [
-                                {
-                                    "id": "174",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    },
-                    "venue": {
-                        "id": 5710,
-                        "name": "Wiener Staatsoper",
-                        "city": "Wien",
-                        "state_province": null,
-                        "postal_code": "1010",
-                        "latitude": 48.20300989999999,
-                        "longitude": 16.3690761,
-                        "_embedded": {
-                            "country": {
-                                "code": "AT",
-                                "name": "Austria"
-                            }
-                        }
-                    }
-                }
-            },
-            {
-                "id": 150333314,
-                "name": "Wiener Mozart Konzerte",
-                "start_date": "2023-07-06T20:15:00+02:00",
-                "end_date": null,
-                "on_sale_date": null,
-                "date_confirmed": true,
-                "time_confirmed": true,
-                "type": "Main",
-                "min_ticket_price": null,
-                "status": "Normal",
-                "_links": {
-                    "event:webpage": {
-                        "href": "https://www.viagogo.com/E-150333314",
-                        "title": null,
-                        "templated": false
-                    }
-                },
-                "_embedded": {
-                    "categories": [
-                        {
-                            "id": 14529,
-                            "name": "Wiener Mozart Konzerte",
-                            "role": null
-                        }
-                    ],
-                    "genre": {
-                        "id": 1,
-                        "name": "Theater Tickets",
-                        "_embedded": {
-                            "external_mappings": [
-                                {
-                                    "id": "174",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    },
-                    "venue": {
-                        "id": 5710,
-                        "name": "Wiener Staatsoper",
-                        "city": "Wien",
-                        "state_province": null,
-                        "postal_code": "1010",
-                        "latitude": 48.20300989999999,
-                        "longitude": 16.3690761,
-                        "_embedded": {
-                            "country": {
-                                "code": "AT",
-                                "name": "Austria"
-                            }
-                        }
-                    }
-                }
-            },
-            {
                 "id": 150334276,
                 "name": "PARKING PASSES ONLY Lynyrd Skynyrd",
                 "start_date": "2023-09-29T20:00:00-04:00",
@@ -35227,6 +35062,171 @@
                 "_links": {
                     "event:webpage": {
                         "href": "https://www.viagogo.com/E-150393910",
+                        "title": null,
+                        "templated": false
+                    }
+                },
+                "_embedded": {
+                    "categories": [
+                        {
+                            "id": 150021331,
+                            "name": "Legends - The Home of Football",
+                            "role": null
+                        }
+                    ],
+                    "genre": {
+                        "id": 1,
+                        "name": "Theater Tickets",
+                        "_embedded": {
+                            "external_mappings": [
+                                {
+                                    "id": "174",
+                                    "platform_name": "legacy_stubhub"
+                                }
+                            ]
+                        }
+                    },
+                    "venue": {
+                        "id": 150004727,
+                        "name": "LEGENDS - The Home of Football",
+                        "city": "Madrid",
+                        "state_province": "Comunidad de Madrid",
+                        "postal_code": "00000",
+                        "latitude": 40.4167668,
+                        "longitude": -3.7019256,
+                        "_embedded": {
+                            "country": {
+                                "code": "ES",
+                                "name": "Spain"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 150393900,
+                "name": "Legends - The Home of Football",
+                "start_date": "2023-04-21T18:00:00+02:00",
+                "end_date": null,
+                "on_sale_date": null,
+                "date_confirmed": true,
+                "time_confirmed": true,
+                "type": "Main",
+                "min_ticket_price": null,
+                "status": "Normal",
+                "_links": {
+                    "event:webpage": {
+                        "href": "https://www.viagogo.com/E-150393900",
+                        "title": null,
+                        "templated": false
+                    }
+                },
+                "_embedded": {
+                    "categories": [
+                        {
+                            "id": 150021331,
+                            "name": "Legends - The Home of Football",
+                            "role": null
+                        }
+                    ],
+                    "genre": {
+                        "id": 1,
+                        "name": "Theater Tickets",
+                        "_embedded": {
+                            "external_mappings": [
+                                {
+                                    "id": "174",
+                                    "platform_name": "legacy_stubhub"
+                                }
+                            ]
+                        }
+                    },
+                    "venue": {
+                        "id": 150004727,
+                        "name": "LEGENDS - The Home of Football",
+                        "city": "Madrid",
+                        "state_province": "Comunidad de Madrid",
+                        "postal_code": "00000",
+                        "latitude": 40.4167668,
+                        "longitude": -3.7019256,
+                        "_embedded": {
+                            "country": {
+                                "code": "ES",
+                                "name": "Spain"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 150393768,
+                "name": "Legends - The Home of Football",
+                "start_date": "2023-04-07T18:10:00+02:00",
+                "end_date": null,
+                "on_sale_date": null,
+                "date_confirmed": true,
+                "time_confirmed": true,
+                "type": "Main",
+                "min_ticket_price": null,
+                "status": "Normal",
+                "_links": {
+                    "event:webpage": {
+                        "href": "https://www.viagogo.com/E-150393768",
+                        "title": null,
+                        "templated": false
+                    }
+                },
+                "_embedded": {
+                    "categories": [
+                        {
+                            "id": 150021331,
+                            "name": "Legends - The Home of Football",
+                            "role": null
+                        }
+                    ],
+                    "genre": {
+                        "id": 1,
+                        "name": "Theater Tickets",
+                        "_embedded": {
+                            "external_mappings": [
+                                {
+                                    "id": "174",
+                                    "platform_name": "legacy_stubhub"
+                                }
+                            ]
+                        }
+                    },
+                    "venue": {
+                        "id": 150004727,
+                        "name": "LEGENDS - The Home of Football",
+                        "city": "Madrid",
+                        "state_province": "Comunidad de Madrid",
+                        "postal_code": "00000",
+                        "latitude": 40.4167668,
+                        "longitude": -3.7019256,
+                        "_embedded": {
+                            "country": {
+                                "code": "ES",
+                                "name": "Spain"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 150393749,
+                "name": "Legends - The Home of Football",
+                "start_date": "2023-03-27T12:20:00+02:00",
+                "end_date": null,
+                "on_sale_date": null,
+                "date_confirmed": true,
+                "time_confirmed": true,
+                "type": "Main",
+                "min_ticket_price": null,
+                "status": "Normal",
+                "_links": {
+                    "event:webpage": {
+                        "href": "https://www.viagogo.com/E-150393749",
                         "title": null,
                         "templated": false
                     }
