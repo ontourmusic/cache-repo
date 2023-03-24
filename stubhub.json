@@ -9,7 +9,7 @@
             "templated": false
         },
         "next": {
-            "href": "https://api.stubhub.net/catalog/events?min_resource_version=154478357779&page_size=500&sort=resource_version",
+            "href": "https://api.stubhub.net/catalog/events?min_resource_version=154478357782&page_size=500&sort=resource_version",
             "title": null,
             "templated": false
         }
@@ -4601,94 +4601,6 @@
                             "external_mappings": [
                                 {
                                     "id": "441393",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    }
-                }
-            },
-            {
-                "id": 150262464,
-                "name": "Sudbury Wolves at Barrie Colts",
-                "start_date": "2023-03-23T19:30:00-04:00",
-                "end_date": null,
-                "on_sale_date": null,
-                "date_confirmed": true,
-                "time_confirmed": true,
-                "type": "Main",
-                "min_ticket_price": null,
-                "status": "Normal",
-                "_links": {
-                    "event:webpage": {
-                        "href": "https://www.stubhub.com/barrie-colts-barrie-tickets-3-23-2023/event/150262464/",
-                        "title": null,
-                        "templated": false
-                    }
-                },
-                "_embedded": {
-                    "categories": [
-                        {
-                            "id": 66937,
-                            "name": "Barrie Colts",
-                            "role": "HomeTeam",
-                            "_embedded": {
-                                "external_mappings": [
-                                    {
-                                        "id": "446937",
-                                        "platform_name": "legacy_stubhub"
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "id": 66762,
-                            "name": "Sudbury Wolves",
-                            "role": "AwayTeam",
-                            "_embedded": {
-                                "external_mappings": [
-                                    {
-                                        "id": "447188",
-                                        "platform_name": "legacy_stubhub"
-                                    }
-                                ]
-                            }
-                        }
-                    ],
-                    "external_mappings": [
-                        {
-                            "id": "150262464",
-                            "platform_name": "legacy_stubhub"
-                        }
-                    ],
-                    "genre": {
-                        "id": 2,
-                        "name": "Sports Tickets",
-                        "_embedded": {
-                            "external_mappings": [
-                                {
-                                    "id": "28",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    },
-                    "venue": {
-                        "id": 85429,
-                        "name": "Sadlon Arena",
-                        "city": "Barrie",
-                        "state_province": "Ontario",
-                        "postal_code": "L4N 8Y2",
-                        "latitude": 44.33770260000001,
-                        "longitude": -79.6777414,
-                        "_embedded": {
-                            "country": {
-                                "code": "CA",
-                                "name": "Canada"
-                            },
-                            "external_mappings": [
-                                {
-                                    "id": "102597121",
                                     "platform_name": "legacy_stubhub"
                                 }
                             ]
@@ -35280,6 +35192,61 @@
                 "_links": {
                     "event:webpage": {
                         "href": "https://www.viagogo.com/E-150393751",
+                        "title": null,
+                        "templated": false
+                    }
+                },
+                "_embedded": {
+                    "categories": [
+                        {
+                            "id": 150021331,
+                            "name": "Legends - The Home of Football",
+                            "role": null
+                        }
+                    ],
+                    "genre": {
+                        "id": 1,
+                        "name": "Theater Tickets",
+                        "_embedded": {
+                            "external_mappings": [
+                                {
+                                    "id": "174",
+                                    "platform_name": "legacy_stubhub"
+                                }
+                            ]
+                        }
+                    },
+                    "venue": {
+                        "id": 150004727,
+                        "name": "LEGENDS - The Home of Football",
+                        "city": "Madrid",
+                        "state_province": "Comunidad de Madrid",
+                        "postal_code": "00000",
+                        "latitude": 40.4167668,
+                        "longitude": -3.7019256,
+                        "_embedded": {
+                            "country": {
+                                "code": "ES",
+                                "name": "Spain"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 150393758,
+                "name": "Legends - The Home of Football",
+                "start_date": "2023-06-02T17:50:00+02:00",
+                "end_date": null,
+                "on_sale_date": null,
+                "date_confirmed": true,
+                "time_confirmed": true,
+                "type": "Main",
+                "min_ticket_price": null,
+                "status": "Normal",
+                "_links": {
+                    "event:webpage": {
+                        "href": "https://www.viagogo.com/E-150393758",
                         "title": null,
                         "templated": false
                     }
