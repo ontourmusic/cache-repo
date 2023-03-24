@@ -9,7 +9,7 @@
             "templated": false
         },
         "next": {
-            "href": "https://api.stubhub.net/catalog/events?min_resource_version=154478357821&page_size=500&sort=resource_version",
+            "href": "https://api.stubhub.net/catalog/events?min_resource_version=154478357864&page_size=500&sort=resource_version",
             "title": null,
             "templated": false
         }
@@ -5894,606 +5894,6 @@
                             "external_mappings": [
                                 {
                                     "id": "441712",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    }
-                }
-            },
-            {
-                "id": 150281883,
-                "name": "PARKING PASSES ONLY 1776 The Musical Nashville",
-                "start_date": "2023-06-20T19:30:00-05:00",
-                "end_date": null,
-                "on_sale_date": "9999-12-31T00:00:00-06:00",
-                "date_confirmed": true,
-                "time_confirmed": true,
-                "type": "Parking",
-                "min_ticket_price": null,
-                "status": "Normal",
-                "_links": {
-                    "event:webpage": {
-                        "href": "https://www.stubhub.com/parking-passes-only-1776-the-musical-nashville-nashville-tickets-6-20-2023/event/150281883/",
-                        "title": null,
-                        "templated": false
-                    }
-                },
-                "_embedded": {
-                    "categories": [
-                        {
-                            "id": 150004458,
-                            "name": "1776 The Musical Nashville",
-                            "role": null,
-                            "_embedded": {
-                                "external_mappings": [
-                                    {
-                                        "id": "102026448",
-                                        "platform_name": "legacy_stubhub"
-                                    }
-                                ]
-                            }
-                        }
-                    ],
-                    "external_mappings": [
-                        {
-                            "id": "150281883",
-                            "platform_name": "legacy_stubhub"
-                        }
-                    ],
-                    "genre": {
-                        "id": 1,
-                        "name": "Theater Tickets",
-                        "_embedded": {
-                            "external_mappings": [
-                                {
-                                    "id": "174",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    },
-                    "venue": {
-                        "id": 95573,
-                        "name": "Andrew Jackson Hall at Tennessee Performing Arts Center (TPAC) - Complex Parking Lots",
-                        "city": "Nashville",
-                        "state_province": "Tennessee",
-                        "postal_code": "37243",
-                        "latitude": 36.164967,
-                        "longitude": -86.78198929999999,
-                        "_embedded": {
-                            "country": {
-                                "code": "US",
-                                "name": "USA"
-                            },
-                            "external_mappings": [
-                                {
-                                    "id": "102157145",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    }
-                }
-            },
-            {
-                "id": 150281887,
-                "name": "PARKING PASSES ONLY 1776 The Musical Nashville",
-                "start_date": "2023-06-24T14:00:00-05:00",
-                "end_date": null,
-                "on_sale_date": "9999-12-31T00:00:00-06:00",
-                "date_confirmed": true,
-                "time_confirmed": true,
-                "type": "Parking",
-                "min_ticket_price": null,
-                "status": "Normal",
-                "_links": {
-                    "event:webpage": {
-                        "href": "https://www.stubhub.com/parking-passes-only-1776-the-musical-nashville-nashville-tickets-6-24-2023/event/150281887/",
-                        "title": null,
-                        "templated": false
-                    }
-                },
-                "_embedded": {
-                    "categories": [
-                        {
-                            "id": 150004458,
-                            "name": "1776 The Musical Nashville",
-                            "role": null,
-                            "_embedded": {
-                                "external_mappings": [
-                                    {
-                                        "id": "102026448",
-                                        "platform_name": "legacy_stubhub"
-                                    }
-                                ]
-                            }
-                        }
-                    ],
-                    "external_mappings": [
-                        {
-                            "id": "150281887",
-                            "platform_name": "legacy_stubhub"
-                        }
-                    ],
-                    "genre": {
-                        "id": 1,
-                        "name": "Theater Tickets",
-                        "_embedded": {
-                            "external_mappings": [
-                                {
-                                    "id": "174",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    },
-                    "venue": {
-                        "id": 95573,
-                        "name": "Andrew Jackson Hall at Tennessee Performing Arts Center (TPAC) - Complex Parking Lots",
-                        "city": "Nashville",
-                        "state_province": "Tennessee",
-                        "postal_code": "37243",
-                        "latitude": 36.164967,
-                        "longitude": -86.78198929999999,
-                        "_embedded": {
-                            "country": {
-                                "code": "US",
-                                "name": "USA"
-                            },
-                            "external_mappings": [
-                                {
-                                    "id": "102157145",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    }
-                }
-            },
-            {
-                "id": 150281886,
-                "name": "PARKING PASSES ONLY 1776 The Musical Nashville",
-                "start_date": "2023-06-23T20:00:00-05:00",
-                "end_date": null,
-                "on_sale_date": "9999-12-31T00:00:00-06:00",
-                "date_confirmed": true,
-                "time_confirmed": true,
-                "type": "Parking",
-                "min_ticket_price": null,
-                "status": "Normal",
-                "_links": {
-                    "event:webpage": {
-                        "href": "https://www.stubhub.com/parking-passes-only-1776-the-musical-nashville-nashville-tickets-6-23-2023/event/150281886/",
-                        "title": null,
-                        "templated": false
-                    }
-                },
-                "_embedded": {
-                    "categories": [
-                        {
-                            "id": 150004458,
-                            "name": "1776 The Musical Nashville",
-                            "role": null,
-                            "_embedded": {
-                                "external_mappings": [
-                                    {
-                                        "id": "102026448",
-                                        "platform_name": "legacy_stubhub"
-                                    }
-                                ]
-                            }
-                        }
-                    ],
-                    "external_mappings": [
-                        {
-                            "id": "150281886",
-                            "platform_name": "legacy_stubhub"
-                        }
-                    ],
-                    "genre": {
-                        "id": 1,
-                        "name": "Theater Tickets",
-                        "_embedded": {
-                            "external_mappings": [
-                                {
-                                    "id": "174",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    },
-                    "venue": {
-                        "id": 95573,
-                        "name": "Andrew Jackson Hall at Tennessee Performing Arts Center (TPAC) - Complex Parking Lots",
-                        "city": "Nashville",
-                        "state_province": "Tennessee",
-                        "postal_code": "37243",
-                        "latitude": 36.164967,
-                        "longitude": -86.78198929999999,
-                        "_embedded": {
-                            "country": {
-                                "code": "US",
-                                "name": "USA"
-                            },
-                            "external_mappings": [
-                                {
-                                    "id": "102157145",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    }
-                }
-            },
-            {
-                "id": 150281889,
-                "name": "PARKING PASSES ONLY 1776 The Musical Nashville",
-                "start_date": "2023-06-25T13:00:00-05:00",
-                "end_date": null,
-                "on_sale_date": "9999-12-31T00:00:00-06:00",
-                "date_confirmed": true,
-                "time_confirmed": true,
-                "type": "Parking",
-                "min_ticket_price": null,
-                "status": "Normal",
-                "_links": {
-                    "event:webpage": {
-                        "href": "https://www.stubhub.com/parking-passes-only-1776-the-musical-nashville-nashville-tickets-6-25-2023/event/150281889/",
-                        "title": null,
-                        "templated": false
-                    }
-                },
-                "_embedded": {
-                    "categories": [
-                        {
-                            "id": 150004458,
-                            "name": "1776 The Musical Nashville",
-                            "role": null,
-                            "_embedded": {
-                                "external_mappings": [
-                                    {
-                                        "id": "102026448",
-                                        "platform_name": "legacy_stubhub"
-                                    }
-                                ]
-                            }
-                        }
-                    ],
-                    "external_mappings": [
-                        {
-                            "id": "150281889",
-                            "platform_name": "legacy_stubhub"
-                        }
-                    ],
-                    "genre": {
-                        "id": 1,
-                        "name": "Theater Tickets",
-                        "_embedded": {
-                            "external_mappings": [
-                                {
-                                    "id": "174",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    },
-                    "venue": {
-                        "id": 95573,
-                        "name": "Andrew Jackson Hall at Tennessee Performing Arts Center (TPAC) - Complex Parking Lots",
-                        "city": "Nashville",
-                        "state_province": "Tennessee",
-                        "postal_code": "37243",
-                        "latitude": 36.164967,
-                        "longitude": -86.78198929999999,
-                        "_embedded": {
-                            "country": {
-                                "code": "US",
-                                "name": "USA"
-                            },
-                            "external_mappings": [
-                                {
-                                    "id": "102157145",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    }
-                }
-            },
-            {
-                "id": 150281888,
-                "name": "PARKING PASSES ONLY 1776 The Musical Nashville",
-                "start_date": "2023-06-24T20:00:00-05:00",
-                "end_date": null,
-                "on_sale_date": "9999-12-31T00:00:00-06:00",
-                "date_confirmed": true,
-                "time_confirmed": true,
-                "type": "Parking",
-                "min_ticket_price": null,
-                "status": "Normal",
-                "_links": {
-                    "event:webpage": {
-                        "href": "https://www.stubhub.com/parking-passes-only-1776-the-musical-nashville-nashville-tickets-6-24-2023/event/150281888/",
-                        "title": null,
-                        "templated": false
-                    }
-                },
-                "_embedded": {
-                    "categories": [
-                        {
-                            "id": 150004458,
-                            "name": "1776 The Musical Nashville",
-                            "role": null,
-                            "_embedded": {
-                                "external_mappings": [
-                                    {
-                                        "id": "102026448",
-                                        "platform_name": "legacy_stubhub"
-                                    }
-                                ]
-                            }
-                        }
-                    ],
-                    "external_mappings": [
-                        {
-                            "id": "150281888",
-                            "platform_name": "legacy_stubhub"
-                        }
-                    ],
-                    "genre": {
-                        "id": 1,
-                        "name": "Theater Tickets",
-                        "_embedded": {
-                            "external_mappings": [
-                                {
-                                    "id": "174",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    },
-                    "venue": {
-                        "id": 95573,
-                        "name": "Andrew Jackson Hall at Tennessee Performing Arts Center (TPAC) - Complex Parking Lots",
-                        "city": "Nashville",
-                        "state_province": "Tennessee",
-                        "postal_code": "37243",
-                        "latitude": 36.164967,
-                        "longitude": -86.78198929999999,
-                        "_embedded": {
-                            "country": {
-                                "code": "US",
-                                "name": "USA"
-                            },
-                            "external_mappings": [
-                                {
-                                    "id": "102157145",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    }
-                }
-            },
-            {
-                "id": 150281885,
-                "name": "PARKING PASSES ONLY 1776 The Musical Nashville",
-                "start_date": "2023-06-22T19:30:00-05:00",
-                "end_date": null,
-                "on_sale_date": "9999-12-31T00:00:00-06:00",
-                "date_confirmed": true,
-                "time_confirmed": true,
-                "type": "Parking",
-                "min_ticket_price": null,
-                "status": "Normal",
-                "_links": {
-                    "event:webpage": {
-                        "href": "https://www.stubhub.com/parking-passes-only-1776-the-musical-nashville-nashville-tickets-6-22-2023/event/150281885/",
-                        "title": null,
-                        "templated": false
-                    }
-                },
-                "_embedded": {
-                    "categories": [
-                        {
-                            "id": 150004458,
-                            "name": "1776 The Musical Nashville",
-                            "role": null,
-                            "_embedded": {
-                                "external_mappings": [
-                                    {
-                                        "id": "102026448",
-                                        "platform_name": "legacy_stubhub"
-                                    }
-                                ]
-                            }
-                        }
-                    ],
-                    "external_mappings": [
-                        {
-                            "id": "150281885",
-                            "platform_name": "legacy_stubhub"
-                        }
-                    ],
-                    "genre": {
-                        "id": 1,
-                        "name": "Theater Tickets",
-                        "_embedded": {
-                            "external_mappings": [
-                                {
-                                    "id": "174",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    },
-                    "venue": {
-                        "id": 95573,
-                        "name": "Andrew Jackson Hall at Tennessee Performing Arts Center (TPAC) - Complex Parking Lots",
-                        "city": "Nashville",
-                        "state_province": "Tennessee",
-                        "postal_code": "37243",
-                        "latitude": 36.164967,
-                        "longitude": -86.78198929999999,
-                        "_embedded": {
-                            "country": {
-                                "code": "US",
-                                "name": "USA"
-                            },
-                            "external_mappings": [
-                                {
-                                    "id": "102157145",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    }
-                }
-            },
-            {
-                "id": 150281884,
-                "name": "PARKING PASSES ONLY 1776 The Musical Nashville",
-                "start_date": "2023-06-21T19:30:00-05:00",
-                "end_date": null,
-                "on_sale_date": "9999-12-31T00:00:00-06:00",
-                "date_confirmed": true,
-                "time_confirmed": true,
-                "type": "Parking",
-                "min_ticket_price": null,
-                "status": "Normal",
-                "_links": {
-                    "event:webpage": {
-                        "href": "https://www.stubhub.com/parking-passes-only-1776-the-musical-nashville-nashville-tickets-6-21-2023/event/150281884/",
-                        "title": null,
-                        "templated": false
-                    }
-                },
-                "_embedded": {
-                    "categories": [
-                        {
-                            "id": 150004458,
-                            "name": "1776 The Musical Nashville",
-                            "role": null,
-                            "_embedded": {
-                                "external_mappings": [
-                                    {
-                                        "id": "102026448",
-                                        "platform_name": "legacy_stubhub"
-                                    }
-                                ]
-                            }
-                        }
-                    ],
-                    "external_mappings": [
-                        {
-                            "id": "150281884",
-                            "platform_name": "legacy_stubhub"
-                        }
-                    ],
-                    "genre": {
-                        "id": 1,
-                        "name": "Theater Tickets",
-                        "_embedded": {
-                            "external_mappings": [
-                                {
-                                    "id": "174",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    },
-                    "venue": {
-                        "id": 95573,
-                        "name": "Andrew Jackson Hall at Tennessee Performing Arts Center (TPAC) - Complex Parking Lots",
-                        "city": "Nashville",
-                        "state_province": "Tennessee",
-                        "postal_code": "37243",
-                        "latitude": 36.164967,
-                        "longitude": -86.78198929999999,
-                        "_embedded": {
-                            "country": {
-                                "code": "US",
-                                "name": "USA"
-                            },
-                            "external_mappings": [
-                                {
-                                    "id": "102157145",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    }
-                }
-            },
-            {
-                "id": 150281890,
-                "name": "PARKING PASSES ONLY 1776 The Musical Nashville",
-                "start_date": "2023-06-25T18:30:00-05:00",
-                "end_date": null,
-                "on_sale_date": "9999-12-31T00:00:00-06:00",
-                "date_confirmed": true,
-                "time_confirmed": true,
-                "type": "Parking",
-                "min_ticket_price": null,
-                "status": "Normal",
-                "_links": {
-                    "event:webpage": {
-                        "href": "https://www.stubhub.com/parking-passes-only-1776-the-musical-nashville-nashville-tickets-6-25-2023/event/150281890/",
-                        "title": null,
-                        "templated": false
-                    }
-                },
-                "_embedded": {
-                    "categories": [
-                        {
-                            "id": 150004458,
-                            "name": "1776 The Musical Nashville",
-                            "role": null,
-                            "_embedded": {
-                                "external_mappings": [
-                                    {
-                                        "id": "102026448",
-                                        "platform_name": "legacy_stubhub"
-                                    }
-                                ]
-                            }
-                        }
-                    ],
-                    "external_mappings": [
-                        {
-                            "id": "150281890",
-                            "platform_name": "legacy_stubhub"
-                        }
-                    ],
-                    "genre": {
-                        "id": 1,
-                        "name": "Theater Tickets",
-                        "_embedded": {
-                            "external_mappings": [
-                                {
-                                    "id": "174",
-                                    "platform_name": "legacy_stubhub"
-                                }
-                            ]
-                        }
-                    },
-                    "venue": {
-                        "id": 95573,
-                        "name": "Andrew Jackson Hall at Tennessee Performing Arts Center (TPAC) - Complex Parking Lots",
-                        "city": "Nashville",
-                        "state_province": "Tennessee",
-                        "postal_code": "37243",
-                        "latitude": 36.164967,
-                        "longitude": -86.78198929999999,
-                        "_embedded": {
-                            "country": {
-                                "code": "US",
-                                "name": "USA"
-                            },
-                            "external_mappings": [
-                                {
-                                    "id": "102157145",
                                     "platform_name": "legacy_stubhub"
                                 }
                             ]
@@ -14100,10 +13500,10 @@
                         "id": 95525,
                         "name": "Santander Performing Arts Center at Santander Arena & Performing Arts Center - Complex Parking Lots",
                         "city": "Reading",
-                        "state_province": "Pennsylvania",
+                        "state_province": "PA",
                         "postal_code": "19601",
-                        "latitude": 40.3378509,
-                        "longitude": -75.92631,
+                        "latitude": 40.33786773681641,
+                        "longitude": -75.92584991455078,
                         "_embedded": {
                             "country": {
                                 "code": "US",
@@ -14175,10 +13575,10 @@
                         "id": 95525,
                         "name": "Santander Performing Arts Center at Santander Arena & Performing Arts Center - Complex Parking Lots",
                         "city": "Reading",
-                        "state_province": "Pennsylvania",
+                        "state_province": "PA",
                         "postal_code": "19601",
-                        "latitude": 40.3378509,
-                        "longitude": -75.92631,
+                        "latitude": 40.33786773681641,
+                        "longitude": -75.92584991455078,
                         "_embedded": {
                             "country": {
                                 "code": "US",
@@ -35227,6 +34627,446 @@
                 "_links": {
                     "event:webpage": {
                         "href": "https://www.viagogo.com/E-150393749",
+                        "title": null,
+                        "templated": false
+                    }
+                },
+                "_embedded": {
+                    "categories": [
+                        {
+                            "id": 150021331,
+                            "name": "Legends - The Home of Football",
+                            "role": null
+                        }
+                    ],
+                    "genre": {
+                        "id": 1,
+                        "name": "Theater Tickets",
+                        "_embedded": {
+                            "external_mappings": [
+                                {
+                                    "id": "174",
+                                    "platform_name": "legacy_stubhub"
+                                }
+                            ]
+                        }
+                    },
+                    "venue": {
+                        "id": 150004727,
+                        "name": "LEGENDS - The Home of Football",
+                        "city": "Madrid",
+                        "state_province": "Comunidad de Madrid",
+                        "postal_code": "00000",
+                        "latitude": 40.4167668,
+                        "longitude": -3.7019256,
+                        "_embedded": {
+                            "country": {
+                                "code": "ES",
+                                "name": "Spain"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 150393901,
+                "name": "Legends - The Home of Football",
+                "start_date": "2023-04-24T19:20:00+02:00",
+                "end_date": null,
+                "on_sale_date": null,
+                "date_confirmed": true,
+                "time_confirmed": true,
+                "type": "Main",
+                "min_ticket_price": null,
+                "status": "Normal",
+                "_links": {
+                    "event:webpage": {
+                        "href": "https://www.viagogo.com/E-150393901",
+                        "title": null,
+                        "templated": false
+                    }
+                },
+                "_embedded": {
+                    "categories": [
+                        {
+                            "id": 150021331,
+                            "name": "Legends - The Home of Football",
+                            "role": null
+                        }
+                    ],
+                    "genre": {
+                        "id": 1,
+                        "name": "Theater Tickets",
+                        "_embedded": {
+                            "external_mappings": [
+                                {
+                                    "id": "174",
+                                    "platform_name": "legacy_stubhub"
+                                }
+                            ]
+                        }
+                    },
+                    "venue": {
+                        "id": 150004727,
+                        "name": "LEGENDS - The Home of Football",
+                        "city": "Madrid",
+                        "state_province": "Comunidad de Madrid",
+                        "postal_code": "00000",
+                        "latitude": 40.4167668,
+                        "longitude": -3.7019256,
+                        "_embedded": {
+                            "country": {
+                                "code": "ES",
+                                "name": "Spain"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 150393775,
+                "name": "Legends - The Home of Football",
+                "start_date": "2023-05-06T20:20:00+02:00",
+                "end_date": null,
+                "on_sale_date": null,
+                "date_confirmed": true,
+                "time_confirmed": true,
+                "type": "Main",
+                "min_ticket_price": null,
+                "status": "Normal",
+                "_links": {
+                    "event:webpage": {
+                        "href": "https://www.viagogo.com/E-150393775",
+                        "title": null,
+                        "templated": false
+                    }
+                },
+                "_embedded": {
+                    "categories": [
+                        {
+                            "id": 150021331,
+                            "name": "Legends - The Home of Football",
+                            "role": null
+                        }
+                    ],
+                    "genre": {
+                        "id": 1,
+                        "name": "Theater Tickets",
+                        "_embedded": {
+                            "external_mappings": [
+                                {
+                                    "id": "174",
+                                    "platform_name": "legacy_stubhub"
+                                }
+                            ]
+                        }
+                    },
+                    "venue": {
+                        "id": 150004727,
+                        "name": "LEGENDS - The Home of Football",
+                        "city": "Madrid",
+                        "state_province": "Comunidad de Madrid",
+                        "postal_code": "00000",
+                        "latitude": 40.4167668,
+                        "longitude": -3.7019256,
+                        "_embedded": {
+                            "country": {
+                                "code": "ES",
+                                "name": "Spain"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 150393858,
+                "name": "Legends - The Home of Football",
+                "start_date": "2023-05-11T12:00:00+02:00",
+                "end_date": null,
+                "on_sale_date": null,
+                "date_confirmed": true,
+                "time_confirmed": true,
+                "type": "Main",
+                "min_ticket_price": null,
+                "status": "Normal",
+                "_links": {
+                    "event:webpage": {
+                        "href": "https://www.viagogo.com/E-150393858",
+                        "title": null,
+                        "templated": false
+                    }
+                },
+                "_embedded": {
+                    "categories": [
+                        {
+                            "id": 150021331,
+                            "name": "Legends - The Home of Football",
+                            "role": null
+                        }
+                    ],
+                    "genre": {
+                        "id": 1,
+                        "name": "Theater Tickets",
+                        "_embedded": {
+                            "external_mappings": [
+                                {
+                                    "id": "174",
+                                    "platform_name": "legacy_stubhub"
+                                }
+                            ]
+                        }
+                    },
+                    "venue": {
+                        "id": 150004727,
+                        "name": "LEGENDS - The Home of Football",
+                        "city": "Madrid",
+                        "state_province": "Comunidad de Madrid",
+                        "postal_code": "00000",
+                        "latitude": 40.4167668,
+                        "longitude": -3.7019256,
+                        "_embedded": {
+                            "country": {
+                                "code": "ES",
+                                "name": "Spain"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 150393934,
+                "name": "Legends - The Home of Football",
+                "start_date": "2023-04-19T18:20:00+02:00",
+                "end_date": null,
+                "on_sale_date": null,
+                "date_confirmed": true,
+                "time_confirmed": true,
+                "type": "Main",
+                "min_ticket_price": null,
+                "status": "Normal",
+                "_links": {
+                    "event:webpage": {
+                        "href": "https://www.viagogo.com/E-150393934",
+                        "title": null,
+                        "templated": false
+                    }
+                },
+                "_embedded": {
+                    "categories": [
+                        {
+                            "id": 150021331,
+                            "name": "Legends - The Home of Football",
+                            "role": null
+                        }
+                    ],
+                    "genre": {
+                        "id": 1,
+                        "name": "Theater Tickets",
+                        "_embedded": {
+                            "external_mappings": [
+                                {
+                                    "id": "174",
+                                    "platform_name": "legacy_stubhub"
+                                }
+                            ]
+                        }
+                    },
+                    "venue": {
+                        "id": 150004727,
+                        "name": "LEGENDS - The Home of Football",
+                        "city": "Madrid",
+                        "state_province": "Comunidad de Madrid",
+                        "postal_code": "00000",
+                        "latitude": 40.4167668,
+                        "longitude": -3.7019256,
+                        "_embedded": {
+                            "country": {
+                                "code": "ES",
+                                "name": "Spain"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 150393870,
+                "name": "Legends - The Home of Football",
+                "start_date": "2023-05-19T18:00:00+02:00",
+                "end_date": null,
+                "on_sale_date": null,
+                "date_confirmed": true,
+                "time_confirmed": true,
+                "type": "Main",
+                "min_ticket_price": null,
+                "status": "Normal",
+                "_links": {
+                    "event:webpage": {
+                        "href": "https://www.viagogo.com/E-150393870",
+                        "title": null,
+                        "templated": false
+                    }
+                },
+                "_embedded": {
+                    "categories": [
+                        {
+                            "id": 150021331,
+                            "name": "Legends - The Home of Football",
+                            "role": null
+                        }
+                    ],
+                    "genre": {
+                        "id": 1,
+                        "name": "Theater Tickets",
+                        "_embedded": {
+                            "external_mappings": [
+                                {
+                                    "id": "174",
+                                    "platform_name": "legacy_stubhub"
+                                }
+                            ]
+                        }
+                    },
+                    "venue": {
+                        "id": 150004727,
+                        "name": "LEGENDS - The Home of Football",
+                        "city": "Madrid",
+                        "state_province": "Comunidad de Madrid",
+                        "postal_code": "00000",
+                        "latitude": 40.4167668,
+                        "longitude": -3.7019256,
+                        "_embedded": {
+                            "country": {
+                                "code": "ES",
+                                "name": "Spain"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 150393859,
+                "name": "Legends - The Home of Football",
+                "start_date": "2023-06-22T18:40:00+02:00",
+                "end_date": null,
+                "on_sale_date": null,
+                "date_confirmed": true,
+                "time_confirmed": true,
+                "type": "Main",
+                "min_ticket_price": null,
+                "status": "Normal",
+                "_links": {
+                    "event:webpage": {
+                        "href": "https://www.viagogo.com/E-150393859",
+                        "title": null,
+                        "templated": false
+                    }
+                },
+                "_embedded": {
+                    "categories": [
+                        {
+                            "id": 150021331,
+                            "name": "Legends - The Home of Football",
+                            "role": null
+                        }
+                    ],
+                    "genre": {
+                        "id": 1,
+                        "name": "Theater Tickets",
+                        "_embedded": {
+                            "external_mappings": [
+                                {
+                                    "id": "174",
+                                    "platform_name": "legacy_stubhub"
+                                }
+                            ]
+                        }
+                    },
+                    "venue": {
+                        "id": 150004727,
+                        "name": "LEGENDS - The Home of Football",
+                        "city": "Madrid",
+                        "state_province": "Comunidad de Madrid",
+                        "postal_code": "00000",
+                        "latitude": 40.4167668,
+                        "longitude": -3.7019256,
+                        "_embedded": {
+                            "country": {
+                                "code": "ES",
+                                "name": "Spain"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 150393911,
+                "name": "Legends - The Home of Football",
+                "start_date": "2023-06-05T18:30:00+02:00",
+                "end_date": null,
+                "on_sale_date": null,
+                "date_confirmed": true,
+                "time_confirmed": true,
+                "type": "Main",
+                "min_ticket_price": null,
+                "status": "Normal",
+                "_links": {
+                    "event:webpage": {
+                        "href": "https://www.viagogo.com/E-150393911",
+                        "title": null,
+                        "templated": false
+                    }
+                },
+                "_embedded": {
+                    "categories": [
+                        {
+                            "id": 150021331,
+                            "name": "Legends - The Home of Football",
+                            "role": null
+                        }
+                    ],
+                    "genre": {
+                        "id": 1,
+                        "name": "Theater Tickets",
+                        "_embedded": {
+                            "external_mappings": [
+                                {
+                                    "id": "174",
+                                    "platform_name": "legacy_stubhub"
+                                }
+                            ]
+                        }
+                    },
+                    "venue": {
+                        "id": 150004727,
+                        "name": "LEGENDS - The Home of Football",
+                        "city": "Madrid",
+                        "state_province": "Comunidad de Madrid",
+                        "postal_code": "00000",
+                        "latitude": 40.4167668,
+                        "longitude": -3.7019256,
+                        "_embedded": {
+                            "country": {
+                                "code": "ES",
+                                "name": "Spain"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 150393942,
+                "name": "Legends - The Home of Football",
+                "start_date": "2023-06-01T19:20:00+02:00",
+                "end_date": null,
+                "on_sale_date": null,
+                "date_confirmed": true,
+                "time_confirmed": true,
+                "type": "Main",
+                "min_ticket_price": null,
+                "status": "Normal",
+                "_links": {
+                    "event:webpage": {
+                        "href": "https://www.viagogo.com/E-150393942",
                         "title": null,
                         "templated": false
                     }
