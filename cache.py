@@ -1,6 +1,7 @@
 import os
 from dotenv import load_dotenv
 import requests
+
 load_dotenv()
 
 app_id = os.environ["APP_ID"]
@@ -34,7 +35,7 @@ def request_cache(url):
 
     try:
         result = requests.get(url)
-    except requests.exceptions.RequestException as e:
+    except Exception as e:
         print(e)
         return None
     return result
@@ -61,7 +62,7 @@ if __name__ == "__main__":
 
     with open("cache.json", "w") as f:
         json.dump(cache, f, indent=4)
-    
+
     stubhub = {}
     try:
         with open("stubhub.json", "r") as f:
@@ -69,8 +70,11 @@ if __name__ == "__main__":
     except FileNotFoundError:
         pass
     try:
-        result = requests.get("https://api.stubhub.net/catalog/events", headers={"Authorization": "Bearer " + stubhub_token})
-    except requests.exceptions.RequestException as e:
+        result = requests.get(
+            "https://api.stubhub.net/catalog/events",
+            headers={"Authorization": "Bearer " + stubhub_token},
+        )
+    except Exception as e:
         print(e)
     stubhub = result.json()
     with open("stubhub.json", "w") as f:
