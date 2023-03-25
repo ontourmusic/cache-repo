@@ -60,8 +60,11 @@ if __name__ == "__main__":
             print(f"Error for {artist}: {e}")
             continue
 
-    with open("cache.json", "w") as f:
-        json.dump(cache, f, indent=4)
+    try:
+        with open("cache.json", "w") as f:
+            json.dump(cache, f, indent=4)
+    except Exception as e:
+        print(e)
 
     stubhub = {}
     try:
@@ -74,8 +77,8 @@ if __name__ == "__main__":
             "https://api.stubhub.net/catalog/events",
             headers={"Authorization": "Bearer " + stubhub_token},
         )
+        stubhub = result.json()
+        with open("stubhub.json", "w") as f:
+            json.dump(stubhub, f, indent=4)
     except Exception as e:
         print(e)
-    stubhub = result.json()
-    with open("stubhub.json", "w") as f:
-        json.dump(stubhub, f, indent=4)
